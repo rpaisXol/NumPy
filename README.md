@@ -17,6 +17,7 @@ This repository contains learning records for **NumPy**, the core scientific com
 
 ---
 
+```text
 NUMPY_STUDY/
 │
 ├── 1. NumPy_Section_1.ipynb # Creating N-Dimensional Arrays
